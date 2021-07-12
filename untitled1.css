@@ -1,0 +1,42 @@
+/* CSS Document */
+
+		/* ORDER box design */
+#order{
+	margin: 40px;
+	height: 600px;
+	width: 350px;
+	padding: 50px;
+	background-color:#FC3;
+	border: groove;
+	padding-top: 40px;
+	 
+	
+	
+}
+#sizemail{
+	width: 300px;
+	height: auto;
+	padding: 7px;
+	
+}
+#LOGINBUTTON{
+	border-bottom-style: ridge;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-color: #09F;
+	font-size: 22px;
+	font-style:inherit;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	height: 35px;
+	
+}
+	
+#cardd{
+	background-color:#999;
+	border: #0CF;
+	float: right;
+	
+}
+
